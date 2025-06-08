@@ -43,7 +43,6 @@ const AnalyticsPage = () => {
   return (
     <div className="analytics-page">
       <Navbar />
-      <Sidebar />
       <div className="analytics-content">
         <h1>Hotel Analytics</h1>
 
