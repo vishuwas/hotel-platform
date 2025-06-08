@@ -1,0 +1,37 @@
+.recommendations-page {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.recommendations-content {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.hotel-list {
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+ul li h3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+ul li p {
+  margin: 5px 0;
+}

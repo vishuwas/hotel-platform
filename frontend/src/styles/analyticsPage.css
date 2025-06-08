@@ -1,0 +1,29 @@
+.analytics-page {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.analytics-content {
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 1.8rem;
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
